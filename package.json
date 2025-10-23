@@ -1,0 +1,16 @@
+{
+  "name": "simple-app",
+  "version": "1.0.0",
+  "description": "simple app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mahir",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
